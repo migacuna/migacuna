@@ -10,8 +10,8 @@ Ingeniero informático y desarrollador Full-Stack enfocado en la construcción d
 
 ### 🛠️ Stack Tecnológico
 
-*   **Backend & Lenguajes:** Java, Spring Boot, Spring Security, Hibernate, Python, Django.
-*   **Frontend:** JavaScript, HTML5, CSS3, Angular, Bootstrap.
+*   **Backend & Lenguajes:** Java, Spring Boot, Spring Security, Hibernate, Maven, Python, Django.
+*   **Frontend:** HTML5, CSS3, JavaScripts, Bootstrap, Jquery, Angular.
 *   **Cloud & DevOps:** AWS (EC2, VPC, EKS, ECR, IAM), Docker, Kubernetes, GitHub Actions, Jenkins.
 *   **Bases de Datos:** PostgreSQL, MySQL, PostgREST, Oracle, Microsft Sql Server.
 *   **Entorno & Herramientas:** Linux (RedHat, Debian, WSL2), Git, IntelliJ IDEA, VS Code, Postman.

@@ -28,6 +28,11 @@ Ingeniero informático y desarrollador Full-Stack enfocado en la construcción d
 *   **[ApiRest_JavaSpring](https://github.com/migacuna/ApiRest_JavaSpring)** 
     *   *Stack:* Java 11, Spring Boot, PostgreSQL, Arquitectura Multi-capa, DTO Pattern.
     *   *Descripción:* API REST de gestión y ventas con diseño robusto y persistencia segura de datos.
+ 
+*   **[ApiRest_Django](https://github.com/migacuna/Django_ApiRes_CarroCompaBack)** 
+    *   *Stack:* Python 3.14, Django 6.1, SQLlite, MVT, Arquitectura Multi-capa, Serializer/Json, POO.
+    *   *Descripción:* API REST de gestión y ventas en arquitectura Microservicios, recibe peticiones desde un FrontEnd tipo Ecommerce.
+      
 *   **Infraestructura CI/CD Multi-tier**
     *   *Stack:* GitHub Actions, AWS EC2, ECR, Docker Compose.
     *   *Descripción:* Automatización de despliegues continuos para arquitecturas distribuidas de múltiples capas.

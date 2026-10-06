@@ -1,16 +1,49 @@
-## Hi there 👋
+### ¡Hola! Soy migacuna 👋
+#### Software Developer & Cloud Systems Engineer
 
-<!--
-**migacuna/migacuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
+Ingeniero informático y desarrollador Full-Stack enfocado en la construcción de sistemas backend robustos, arquitecturas orientadas a microservicios y automatización de infraestructura en la nube. Apasionado por las buenas prácticas de desarrollo, el código limpio y el diseño de soluciones escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico
+
+*   **Backend & Lenguajes:** Java, Spring Boot, Spring Security, Hibernate, Python, Django.
+*   **Frontend:** JavaScript, HTML5, CSS3, Angular, Bootstrap.
+*   **Cloud & DevOps:** AWS (EC2, VPC, EKS, ECR, IAM), Docker, Kubernetes, GitHub Actions, Jenkins.
+*   **Bases de Datos:** PostgreSQL, MySQL, PostgREST, Oracle, Microsft Sql Server.
+*   **Entorno & Herramientas:** Linux (RedHat, Debian, WSL2), Git, IntelliJ IDEA, VS Code, Postman.
+
+---
+
+### 🚀 Proyectos Destacados (Open Source)
+
+> Arquitecturas y sistemas desarrollados bajo buenas prácticas de ingeniería de software:
+
+*   **[ProyectoK8s_WebApp](https://github.com/migacuna/ProyectoK8s_WebApp)** 
+    *   *Stack:* Kubernetes (EKS), Docker, AWS, Microservicios.
+    *   *Descripción:* Cluster de aplicaciones web desplegado en AWS Elastic Kubernetes Service con gestión de nodos y redes virtuales (VPC).
+*   **[ApiRest_JavaSpring](https://github.com/migacuna/ApiRest_JavaSpring)** 
+    *   *Stack:* Java 11, Spring Boot, PostgreSQL, Arquitectura Multi-capa, DTO Pattern.
+    *   *Descripción:* API REST de gestión y ventas con diseño robusto y persistencia segura de datos.
+*   **Infraestructura CI/CD Multi-tier**
+    *   *Stack:* GitHub Actions, AWS EC2, ECR, Docker Compose.
+    *   *Descripción:* Automatización de despliegues continuos para arquitecturas distribuidas de múltiples capas.
+
+---
+
+### 📊 Métricas de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=migacuna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migacuna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🛡️ Enlaces & Contacto Profesional
+*Las propuestas o contactos técnicos se canalizan de forma directa a través de perfiles profesionales o plataformas de reclutamiento.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migacuna)
